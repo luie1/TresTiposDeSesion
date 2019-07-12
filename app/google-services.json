@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "48399018992",
+    "firebase_url": "https://loginprueba-73249.firebaseio.com",
+    "project_id": "loginprueba-73249",
+    "storage_bucket": "loginprueba-73249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48399018992:android:fcff8b63511dc2e2",
+        "android_client_info": {
+          "package_name": "com.example.loginprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48399018992-6el4r86ve1fuasanckudtjjhmfj6mfqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginprueba",
+            "certificate_hash": "b015500a94fe2007afaeb3dda77162f414e101a6"
+          }
+        },
+        {
+          "client_id": "48399018992-2n7mhqbruiqm5hkkgh5viuu1hnvu4u4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAealgXrSR9a44neWVuk2e7EY4TUwNeK-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48399018992-2n7mhqbruiqm5hkkgh5viuu1hnvu4u4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
